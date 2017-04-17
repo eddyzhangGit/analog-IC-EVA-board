@@ -32,6 +32,7 @@ The board is designed with a accuracy much higher than traditional lab Requireme
 
 A MAC OS app is developed to allow user to  configure the board with ease.
 
+
 ![alt tag](https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/master/image/2017_ECE496_Poster_final2.003.jpeg)
 
 Lastly, python functions are available to allow user to write their own scripts for automated testing. 
