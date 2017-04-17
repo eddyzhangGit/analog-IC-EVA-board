@@ -14,8 +14,9 @@ or worse, you use a lab equipments such as Aglient power supply,  Total phase di
 Our Analog IC Equation Platform offers an solution for rapid IC Evaluation.
 
 
-<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/master/image/2017_ECE496_Poster_final.001.jpeg" 
-<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/master/image/2017_ECE496_Poster_final.002.jpeg" 
+<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/image/2017_ECE496_Poster_final.001.jpeg" 
+
+<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/image/2017_ECE496_Poster_final.002.jpeg" 
 
 The board is equipped with 
 
@@ -35,6 +36,7 @@ Lastly, python functions are available to allow user to write their own scripts 
 if you found this board will be beneficial to your project, Feel free to contact me for more information.
 
 Eddy Zhen Zhang
+
 Eddy.zhang@mail.utoronto.ca
 
 
