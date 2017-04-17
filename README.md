@@ -1,6 +1,6 @@
-Image , you are an integrated circuit designer, at university lab. You took 5 month to design a integrated chip and just get back from fabrication. you are excited to test it. etc  see  whether it will power up and how much power it will consume at certain states.
+Imagine that you are an integrated circuit designer at university lab. You took 5 month to design a integrated chip and just get back from fabrication. you are excited to test it. You want to see whether it will power up and how much power it will consume at certain states.
 
-In order to test it and you need the following configure the chip into certain state.
+In order to test it and you most likely will need the following to configure your chip.
 
  - A positive/negative bias voltage to bias the transistor. 
  - A precision bias current for your current mirror.
@@ -13,10 +13,9 @@ or worse, you use a lab equipments such as Aglient power supply,  Total phase di
 
 Our Analog IC Equation Platform offers an solution for rapid IC Evaluation.
 
+![alt tag](https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/Master/image/2017_ECE496_Poster_final.001.jpeg)
 
-<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/image/2017_ECE496_Poster_final.001.jpeg" 
 
-<img src="https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/image/2017_ECE496_Poster_final.002.jpeg" 
 
 The board is equipped with 
 
