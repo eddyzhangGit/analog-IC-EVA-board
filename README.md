@@ -13,7 +13,7 @@ or worse, you use a lab equipments such as Aglient power supply,  Total phase di
 
 Our Analog IC Equation Platform offers an solution for rapid IC Evaluation.
 
-![alt tag](https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/Master/image/2017_ECE496_Poster_final.001.jpeg)
+![alt tag](https://raw.githubusercontent.com/eddyzhangGit/analog-IC-EVA-board/master/image/2017_ECE496_Poster_final.001.jpeg)
 
 
 
