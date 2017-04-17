@@ -41,8 +41,9 @@ Lastly, python functions are available to allow user to write their own scripts 
 if you found this board will be beneficial to your project, Feel free to contact me for more information.
 
 Eddy Zhen Zhang
+
 Eddy.zhang@mail.utoronto.ca
-647-676-8287
+ | 647-676-8287
 
 
 
